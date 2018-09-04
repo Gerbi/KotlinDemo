@@ -12,4 +12,6 @@ fun main(args:Array<String>) {
     println("dep:"+ dep)
     var pi:Double=3.4
 
+    println("es te es el numero"+ pi)
+
 }

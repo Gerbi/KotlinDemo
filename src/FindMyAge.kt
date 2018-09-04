@@ -11,4 +11,5 @@ fun main (args:Array<String>){
     age=year-DOB
     //output
     println(" Your age is $age years")
+
 }
