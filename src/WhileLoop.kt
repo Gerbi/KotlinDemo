@@ -1,5 +1,5 @@
 fun main(args:Array<String>){
-    var count=1
+    var count=6
     while (count<=5) {
         //block of code
         if (count==2) {
