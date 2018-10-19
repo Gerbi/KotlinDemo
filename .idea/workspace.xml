@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0687771b-e116-4992-99f5-602abf69bba3" name="Default" comment="scope">
+    <list default="true" id="0687771b-e116-4992-99f5-602abf69bba3" name="Default" comment="new commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/OOP/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/OOP/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/OOP/SimpleClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/OOP/SimpleClassKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/SimpleClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/SimpleClass.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,13 +66,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="kt" value="4744" />
-          <entry key="txt" value="195" />
+          <entry key="txt" value="236" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Kotlin" value="4744" />
-          <entry key="PLAIN_TEXT" value="195" />
+          <entry key="PLAIN_TEXT" value="236" />
         </counts>
       </usages-collector>
     </session>
@@ -86,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OOP/SimpleClass.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -365,7 +364,7 @@
       <workItem from="1539834346397" duration="4100000" />
       <workItem from="1539884973731" duration="15726000" />
       <workItem from="1539970867167" duration="4444000" />
-      <workItem from="1539978778976" duration="316000" />
+      <workItem from="1539978778976" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="if">
       <created>1536029501424</created>
@@ -528,11 +527,25 @@
       <option name="project" value="LOCAL" />
       <updated>1539910168375</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="workspace">
+      <created>1539979249654</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1539979249654</updated>
+    </task>
+    <task id="LOCAL-00025" summary="SimpleClass">
+      <created>1539979270766</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1539979270766</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67323000" />
+    <option name="totallyTimeSpent" value="67577000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -565,7 +578,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299566" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4977307" weight="0.32580644" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5138675" side_tool="true" weight="0.32416788" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5138675" side_tool="true" visible="true" weight="0.32416788" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48865354" weight="0.32416788" />
       <window_info anchor="bottom" id="Dart Analysis" order="12" weight="0.3299566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -589,7 +602,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="if" />
     <MESSAGE value="ifElse" />
     <MESSAGE value="ifElseIf" />
     <MESSAGE value="nestedIf" />
@@ -612,7 +624,10 @@
     <MESSAGE value="FunctionsOverload" />
     <MESSAGE value="FunctionsPolimorphism" />
     <MESSAGE value="scope" />
-    <option name="LAST_COMMIT_MESSAGE" value="scope" />
+    <MESSAGE value="workspace" />
+    <MESSAGE value="SimpleClass" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -941,8 +956,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP/SimpleClass.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
