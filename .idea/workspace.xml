@@ -1,46 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0687771b-e116-4992-99f5-602abf69bba3" name="Default" comment="classInhertanice">
+    <list default="true" id="0687771b-e116-4992-99f5-602abf69bba3" name="Default" comment="Overriding">
+      <change afterPath="$PROJECT_DIR$/src/ClassInterface.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/ArrayKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/ArrayKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/ArrayListDemoKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/ArrayListDemoKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/CommetsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/CommetsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/ControlLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/ControlLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/ConvertDataTypeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/ConvertDataTypeKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/DatatypeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/DatatypeKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/DoWhileLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/DoWhileLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/FindMyAgeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/FindMyAgeKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/FindlistNumbersKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/FindlistNumbersKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/FirstAppKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/FirstAppKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/FunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/FunctionsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/FunctionsOverloadKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/FunctionsOverloadKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/FunctionsPolimorphisiomKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/FunctionsPolimorphisiomKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/HashMapDemoKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/HashMapDemoKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/IncrementDecrementKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/IncrementDecrementKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/InputsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/InputsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/KotlinCollectsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/KotlinCollectsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/LogicConditionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/LogicConditionsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/META-INF/KotlinDemo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/META-INF/KotlinDemo.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/MakeingDessionExpressionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/MakeingDessionExpressionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/NestedForLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/NestedForLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/NullSafetyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/NullSafetyKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/NumerEven_or_oddKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/NumerEven_or_oddKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/OOP/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/OOP/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/OOP/SimpleClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/OOP/SimpleClassKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/OperationsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/OperationsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/PrioritesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/PrioritesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/ScopeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/ScopeKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/SetsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/SetsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleForLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleForLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleIfElseIfKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleIfElseIfKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleIfElseKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleIfElseKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleIfKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleIfKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleNestedIfKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleNestedIfKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleWhenKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/SimpleWhenKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/StringsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/StringsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/WhileLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/WhileLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Overriding.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overriding.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,25 +59,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Learning" value="2" />
-          <entry key="kt" value="49" />
+          <entry key="kt" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="49" />
+          <entry key="Kotlin" value="50" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="5620" />
-          <entry key="txt" value="262" />
+          <entry key="kt" value="5916" />
+          <entry key="txt" value="272" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="5620" />
-          <entry key="PLAIN_TEXT" value="262" />
+          <entry key="Kotlin" value="5916" />
+          <entry key="PLAIN_TEXT" value="272" />
         </counts>
       </usages-collector>
     </session>
@@ -125,10 +88,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
+        <entry file="file://$PROJECT_DIR$/src/ClassInterface.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="255">
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -193,6 +156,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
         <option value="$PROJECT_DIR$/src/ClassInhertanice.kt" />
         <option value="$PROJECT_DIR$/src/Overriding.kt" />
+        <option value="$PROJECT_DIR$/src/ClassInterface.kt" />
       </list>
     </option>
   </component>
@@ -239,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540176320821" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540177532617" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -408,7 +372,7 @@
       <workItem from="1540060017743" duration="2239000" />
       <workItem from="1540162990694" duration="1759000" />
       <workItem from="1540170437021" duration="438000" />
-      <workItem from="1540171103483" duration="2441000" />
+      <workItem from="1540171103483" duration="3685000" />
     </task>
     <task id="LOCAL-00001" summary="if">
       <created>1536029501424</created>
@@ -613,11 +577,25 @@
       <option name="project" value="LOCAL" />
       <updated>1539997741616</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="classInhertanice">
+      <created>1540176327876</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1540176327876</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Overriding">
+      <created>1540176351478</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1540176351478</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82842000" />
+    <option name="totallyTimeSpent" value="84086000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -632,7 +610,7 @@
     <frame x="-7" y="-7" width="1358" height="824" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49790794" visible="true" weight="0.18335901" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49790794" visible="true" weight="0.18335901" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" weight="0.32973805" />
       <window_info id="Image Layers" order="3" />
@@ -642,15 +620,15 @@
       <window_info id="Favorites" order="7" sideWeight="0.50209206" side_tool="true" weight="0.16152816" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48228043" visible="true" weight="0.32416788" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48228043" weight="0.32416788" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48844376" weight="0.39797395" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4953775" weight="0.32561505" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49922958" weight="0.3299566" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49845916" visible="true" weight="0.3299566" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4977307" weight="0.32580644" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51771957" side_tool="true" visible="true" weight="0.32416788" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50154084" side_tool="true" visible="true" weight="0.3299566" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4845917" weight="0.32416788" />
       <window_info anchor="bottom" id="Dart Analysis" order="12" weight="0.3299566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1081,8 +1059,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassInterface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
         </state>
       </provider>
     </entry>
