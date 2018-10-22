@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0687771b-e116-4992-99f5-602abf69bba3" name="Default" comment="extensions">
-      <change afterPath="$PROJECT_DIR$/src/CallPackage.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleClassConstructor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/cars/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -61,25 +59,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Learning" value="2" />
-          <entry key="kt" value="58" />
+          <entry key="kt" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="58" />
+          <entry key="Kotlin" value="60" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="7214" />
-          <entry key="txt" value="333" />
+          <entry key="kt" value="7386" />
+          <entry key="txt" value="368" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="7214" />
-          <entry key="PLAIN_TEXT" value="333" />
+          <entry key="Kotlin" value="7386" />
+          <entry key="PLAIN_TEXT" value="368" />
         </counts>
       </usages-collector>
     </session>
@@ -89,29 +87,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimpleClassConstructor.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CallPackage.kt">
+        <entry file="file://$PROJECT_DIR$/src/NestedClass.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/cars/MainClass.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -184,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/com/example/cars/MainClass.kt" />
         <option value="$PROJECT_DIR$/src/CallPackage.kt" />
         <option value="$PROJECT_DIR$/src/SimpleClassConstructor.kt" />
+        <option value="$PROJECT_DIR$/src/NestedClass.kt" />
       </list>
     </option>
   </component>
@@ -230,7 +211,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540180535753" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540180743791" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -399,7 +380,7 @@
       <workItem from="1540060017743" duration="2239000" />
       <workItem from="1540162990694" duration="1759000" />
       <workItem from="1540170437021" duration="438000" />
-      <workItem from="1540171103483" duration="6589000" />
+      <workItem from="1540171103483" duration="6892000" />
     </task>
     <task id="LOCAL-00001" summary="if">
       <created>1536029501424</created>
@@ -653,11 +634,25 @@
       <option name="project" value="LOCAL" />
       <updated>1540179268605</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="simpleClassConstructor">
+      <created>1540180482290</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1540180482290</updated>
+    </task>
+    <task id="LOCAL-00038" summary="PackageUse">
+      <created>1540180591825</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1540180591825</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86990000" />
+    <option name="totallyTimeSpent" value="87293000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -672,7 +667,7 @@
     <frame x="-7" y="-7" width="1358" height="824" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49790794" visible="true" weight="0.18335901" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49790794" visible="true" weight="0.18335901" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" weight="0.32973805" />
       <window_info id="Image Layers" order="3" />
@@ -682,7 +677,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.50209206" side_tool="true" weight="0.16152816" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47919875" weight="0.32416788" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47842836" visible="true" weight="0.32416788" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48767334" weight="0.39797395" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -690,8 +685,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49845916" weight="0.3299566" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4977307" weight="0.32580644" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5200308" side_tool="true" visible="true" weight="0.32416788" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.47996917" visible="true" weight="0.32416788" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52157164" side_tool="true" visible="true" weight="0.32416788" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.47919875" weight="0.32416788" />
       <window_info anchor="bottom" id="Dart Analysis" order="12" weight="0.3299566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -740,8 +735,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="NestedForLoop" />
-    <MESSAGE value="whileloop" />
     <MESSAGE value="Array" />
     <MESSAGE value="ArrayListDemo" />
     <MESSAGE value="ControlLoop" />
@@ -765,7 +758,9 @@
     <MESSAGE value="enumsDemo" />
     <MESSAGE value="generic" />
     <MESSAGE value="extensions" />
-    <option name="LAST_COMMIT_MESSAGE" value="extensions" />
+    <MESSAGE value="simpleClassConstructor" />
+    <MESSAGE value="PackageUse" />
+    <option name="LAST_COMMIT_MESSAGE" value="PackageUse" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1161,24 +1156,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/cars/MainClass.kt">
+    <entry file="file://$PROJECT_DIR$/src/SimpleClassConstructor.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimpleClassConstructor.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/example/cars/text.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CallPackage.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/cars/MainClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NestedClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
