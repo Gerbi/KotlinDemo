@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0687771b-e116-4992-99f5-602abf69bba3" name="Default" comment="comparable">
-      <change afterPath="$PROJECT_DIR$/src/TryCatch.kt" afterDir="false" />
+    <list default="true" id="0687771b-e116-4992-99f5-602abf69bba3" name="Default" comment="trycatch">
+      <change afterPath="$PROJECT_DIR$/src/MyFile.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/META-INF/KotlinDemo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/META-INF/KotlinDemo.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,25 +60,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Learning" value="2" />
-          <entry key="kt" value="63" />
+          <entry key="kt" value="65" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="63" />
+          <entry key="Kotlin" value="65" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="8181" />
-          <entry key="txt" value="398" />
+          <entry key="kt" value="8491" />
+          <entry key="txt" value="406" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="8181" />
-          <entry key="PLAIN_TEXT" value="398" />
+          <entry key="Kotlin" value="8491" />
+          <entry key="PLAIN_TEXT" value="406" />
         </counts>
       </usages-collector>
     </session>
@@ -87,38 +90,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NestedClass.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Singleton.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Comparable.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TryCatch.kt">
+        <entry file="file://$PROJECT_DIR$/src/MyFile.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="306">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -144,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FirstApp.kt" />
         <option value="$PROJECT_DIR$/src/inputs.kt" />
         <option value="$PROJECT_DIR$/src/commets.kt" />
         <option value="$PROJECT_DIR$/src/NullSafety.kt" />
@@ -195,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/Singleton.kt" />
         <option value="$PROJECT_DIR$/src/Comparable.kt" />
         <option value="$PROJECT_DIR$/src/TryCatch.kt" />
+        <option value="$PROJECT_DIR$/src/MyFile.kt" />
       </list>
     </option>
   </component>
@@ -225,6 +201,11 @@
               <item name="KotlinDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinDemo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotlinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -236,7 +217,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540183001210" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540183694559" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -268,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.TryCatchKt">
+  <component name="RunManager" selected="Kotlin.MyFileKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -307,14 +288,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtensionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MyFileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ExtensionsKt" />
+      <option name="MAIN_CLASS_NAME" value="MyFileKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -355,19 +336,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ExtensionsKt" />
       <item itemvalue="Kotlin.CallPackageKt" />
       <item itemvalue="Kotlin.SingletonKt" />
       <item itemvalue="Kotlin.ComparableKt" />
       <item itemvalue="Kotlin.TryCatchKt" />
+      <item itemvalue="Kotlin.MyFileKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MyFileKt" />
         <item itemvalue="Kotlin.TryCatchKt" />
         <item itemvalue="Kotlin.ComparableKt" />
         <item itemvalue="Kotlin.SingletonKt" />
         <item itemvalue="Kotlin.CallPackageKt" />
-        <item itemvalue="Kotlin.ExtensionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +386,7 @@
       <workItem from="1540060017743" duration="2239000" />
       <workItem from="1540162990694" duration="1759000" />
       <workItem from="1540170437021" duration="438000" />
-      <workItem from="1540171103483" duration="9005000" />
+      <workItem from="1540171103483" duration="9680000" />
     </task>
     <task id="LOCAL-00001" summary="if">
       <created>1536029501424</created>
@@ -694,11 +675,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540182625769</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="trycatch">
+      <created>1540183028102</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1540183028102</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89406000" />
+    <option name="totallyTimeSpent" value="90081000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -713,7 +701,7 @@
     <frame x="-7" y="-7" width="1358" height="824" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49790794" visible="true" weight="0.18335901" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49790794" visible="true" weight="0.18335901" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" weight="0.32973805" />
       <window_info id="Image Layers" order="3" />
@@ -723,16 +711,16 @@
       <window_info id="Favorites" order="7" sideWeight="0.50209206" side_tool="true" weight="0.16152816" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4761171" weight="0.32416788" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.48690292" visible="true" weight="0.39797395" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47457626" visible="true" weight="0.32416788" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48690292" weight="0.39797395" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4953775" weight="0.32561505" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49845916" weight="0.3299566" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4977307" weight="0.32580644" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51309705" side_tool="true" visible="true" weight="0.39797395" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.47688752" weight="0.32416788" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5254237" side_tool="true" visible="true" weight="0.32416788" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.47534668" weight="0.32416788" />
       <window_info anchor="bottom" id="Dart Analysis" order="12" weight="0.3299566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -781,7 +769,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dowhileloop" />
     <MESSAGE value="FindListNumber" />
     <MESSAGE value="HashMap" />
     <MESSAGE value="KotlinCollects" />
@@ -806,7 +793,8 @@
     <MESSAGE value="NestedClass" />
     <MESSAGE value="Singleton" />
     <MESSAGE value="comparable" />
-    <option name="LAST_COMMIT_MESSAGE" value="comparable" />
+    <MESSAGE value="trycatch" />
+    <option name="LAST_COMMIT_MESSAGE" value="trycatch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -907,20 +895,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FirstApp.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NullSafety.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ConvertDataType.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1016,13 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inputs.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1261,6 +1228,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inputs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyFile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
